@@ -97,3 +97,12 @@ Are you using Git? You might want to automatically have Ceedling create a
 `gitignore` file for you by adding `--gitignore` to your `new` call.
 
 *HAPPY TESTING!*
+
+Installing Locally
+==================
+
+To install locally based of of what is in this repo, simply do `rake install`.
+Note, if you are doing this, you should alter the version to denote it is not
+the Ceedling installed from rubygems. 
+
+
